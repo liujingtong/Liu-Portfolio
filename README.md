@@ -10,6 +10,6 @@ I hope to learn the basic techniques to create easy-to-understand data visualiza
 # Portfolio
 Here's where my data vis will go!
 
-[a sample page](page2.md)
 
-[here another](sample.md)
+[Government debt by country for 1995 - 2018](OECD_data_vis.md)
+
