@@ -11,3 +11,4 @@ I hope to learn the basic techniques to create easy-to-understand data visualiza
 Here's where my data vis will go!
 
 [a sample page](page2.md)
+[another](sample)
