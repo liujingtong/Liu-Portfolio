@@ -1,3 +1,5 @@
+The following two charts used the same dataset to showcase the government debt of different countries from 1996 to 2018. The charts indicate the gross debt of the general government as a percentage of GDP.
+
 ## Beeswarm Plot
 Beeswarm plot distributes elements horizontally avoiding overlap between them and according to a selected dimension.
 The bigger the circle, the bigger the debt a country had.
