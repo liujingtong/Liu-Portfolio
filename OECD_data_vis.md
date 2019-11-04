@@ -1,5 +1,13 @@
 # OECD data visualization
-The following two charts used the same dataset to showcase the government debt of different countries from 1996 to 2018. The charts indicate the gross debt of the general government as a percentage of GDP.
+The following three charts used the same dataset to showcase the government debt of different countries from 1996 to 2018.
+
+The charts indicate the gross debt of the general government as a percentage of GDP.
+
+## Bar chart
+The following bar chart is the original chart from oecd.org. You can find the data set and the chart [here](https://data.oecd.org/gga/general-government-debt.htm).
+
+<iframe src="https://data.oecd.org/chart/5JzG" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/5JzG" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2015</a></iframe>
+
 
 ## Beeswarm Plot
 Beeswarm plot distributes elements horizontally avoiding overlap between them and according to a selected dimension.
