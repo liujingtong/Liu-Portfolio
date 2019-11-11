@@ -39,3 +39,7 @@ Second, it can be difficult to observe trend for one country over time or across
 
 ### Horizon graph
 I chose horizon graph as the third chart because it used similar and easy-to-understand notion, color versus circle's size, as beeswarm chart to denote the data. What's better about horizon graph is that it can show subtle differences between data points using light and dark color. It splits data up into *bands* using a uniform interval and collapses the positive bands to the zero axis so that the higher bands layer on top. You can check out more about its characteristics [here](https://flowingdata.com/2015/07/02/changing-price-of-food-items-and-horizon-graphs/). Also, the trend of how data change over time is easily discerned on a horizon graph, both for a single country and across many countries.
+
+## Tableau
+<iframe src="https://public.tableau.com/views/Generalgovernmentdept/Sheet1?:display_count=y&publish=yes&:origin=viz_share_link" width=”800″ height=”600″></iframe>
+
