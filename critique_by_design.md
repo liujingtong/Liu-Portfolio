@@ -37,4 +37,5 @@ For my redesign, they both said that adding a Y-axis is helpful, since "it makes
 Interestingly, my family member preferred the original visualization, since "although exaggerated, it was able to showcase the trend of the two things and I can understand it as soon as I saw the chart". While my revision was more correct, it is not as eye-catching as the original.
 
 ## Final visualization
+Based on the feedback from users, I created my final visualization.
 <iframe title="Services provided by Planned Parenthood" aria-label="Interactive line chart" id="datawrapper-chart-vtHM5" src="//datawrapper.dwcdn.net/vtHM5/1/" scrolling="no" frameborder="0" style="width: 0; min-width: 100% !important; border: none;" height="574"></iframe><script type="text/javascript">!function(){"use strict";window.addEventListener("message",function(a){if(void 0!==a.data["datawrapper-height"])for(var e in a.data["datawrapper-height"]){var t=document.getElementById("datawrapper-chart-"+e)||document.querySelector("iframe[src*='"+e+"']");t&&(t.style.height=a.data["datawrapper-height"][e]+"px")}})}();</script>
