@@ -15,3 +15,11 @@ Here's where my data vis will go!
 [Critique by design](critique_by_design.md)
 
 [Final project proposal](final_project_proposal.md)
+
+<div id="observablehq-81bade16"></div>
+<script type="module">
+import {Runtime, Inspector} from "https://cdn.jsdelivr.net/npm/@observablehq/runtime@4/dist/runtime.js";
+import define from "https://api.observablehq.com/@observablehq/downloading-and-embedding-notebooks.js?v=3";
+const inspect = Inspector.into("#observablehq-81bade16");
+(new Runtime).module(define, name => (name === "graphic") && inspect());
+</script>
