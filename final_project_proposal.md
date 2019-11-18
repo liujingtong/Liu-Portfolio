@@ -17,5 +17,5 @@ This project will utilize the open-source database found from Kaggle. You can vi
 This is a huge dataset with 100 columns. At first glance, I plan to use columns with geographic information (latitude and longitude) and timestamps to plot the past terrorist attacks onto a map.
 
 ## Method and medium
-I would like to use Python libraries like Bokeh and Altair to plot geographic data. I also want to explore ways to make the final presentation interactive, enabling the readers to play around the data visualization.  
+I would like to use Python libraries like [Bokeh](https://github.com/bokeh/bokeh) and [Altair](https://github.com/altair-viz/altair) to plot geographic data. I also want to explore ways to make the final presentation interactive, enabling the readers to play around the data visualization.  
 For the platform, I am thinking about [Observable](https://observablehq.com/) since I like its simplicity and elegancy in displaying data visualizations.
