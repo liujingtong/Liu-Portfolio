@@ -13,3 +13,5 @@ Here's where my data vis will go!
 [Government debt by country for 1995 - 2018](OECD_data_vis.md)
 
 [Critique by design](critique_by_design.md)
+
+[Final project proposal](final_project_proposal.md)
