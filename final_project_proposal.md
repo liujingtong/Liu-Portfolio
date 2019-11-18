@@ -13,7 +13,8 @@ This final project will look at the Global Terrorism Database, an open-source da
 ![](assets/final_project_proposal-83909fd0.jpeg)
 
 ## Data
-This project will utilize the open-source database found from Kaggle. You can view the dataset [here](https://www.kaggle.com/START-UMD/gtd).This is a huge dataset with 100 columns. At first glance, I plan to use columns with geographic information (latitude and longitude) and timestamps to plot the past terrorist attacks onto a map.
+This project will utilize the open-source database found from Kaggle. You can view the dataset [here](https://www.kaggle.com/START-UMD/gtd).  
+This is a huge dataset with 100 columns. At first glance, I plan to use columns with geographic information (latitude and longitude) and timestamps to plot the past terrorist attacks onto a map.
 
 ## Method and medium
 I would like to use Python libraries like Bokeh and Altair to plot geographic data. I also want to explore ways to make the final presentation interactive, enabling the readers to play around the data visualization.  
