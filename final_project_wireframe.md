@@ -65,4 +65,5 @@ I also added a band between 2011 and 2017 to highlight the rapid rise after 2011
 
 
 ### Next step
-As suggested by interviewees, I will look into economic and social factors that may contribute to the 2014 outlier. I also want to examine some terrorism on the Internet examples, so that my call to action can be better linked with the content.
+As suggested by interviewees, I will look into economic and social factors that may contribute to the 2014 outlier. I also want to examine some terrorism on the Internet examples, so that my call to action can be better linked with the content.  
+Also, I found that the play and pause, forward backward and speed control are available in Tableau Desktop but disabled in Tableau Public and Server. Without this feature, readers have to click once for every year, which is less ideal, and it seems [many](https://community.tableau.com/ideas/3844) [people](https://community.tableau.com/ideas/1201) have been complaining about this for years. I will try to find a workaround for this.
