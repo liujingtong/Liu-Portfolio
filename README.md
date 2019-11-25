@@ -14,4 +14,6 @@ Here's where my data vis will go!
 
 [Critique by design](critique_by_design.md)
 
-[Final project proposal](final_project_proposal.md)
+# Final Project
+[Part 1: Final project proposal](final_project_proposal.md)
+[Part 2: sketches, wireframe and storyboard](final_project_wireframe.md)
