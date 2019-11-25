@@ -57,12 +57,13 @@ One interviewee commented that although bar chart can show the drastic differenc
 
 ### Wireframes
 Based on the feedback I collected, I did the following changes.  
-I recreated the graph of the total number of terrorist attacks per country using heat map on a world map to indicate difference in regions. I also created a interactive bar with which the readers can interact with to see the number of terrorist attacks adds up as time moves forward.
-<iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet1?:showVizHome=no&:embed=true"
+I recreated the graph of the total number of terrorist attacks per country using heat map on a world map to indicate difference in regions. Then I linked the heat map with another bar chart, showing types of attacks in these years. I also created a interactive bar with which the readers can interact with to see the number of terrorist attacks adds up as time moves forward.
+<iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Dashboard1?:showVizHome=no&:embed=true"
  width="955" height="955"></iframe>
-
+I also added a band between 2011 and 2017 to highlight the rapid rise after 2011.
  <iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet2?:showVizHome=no&:embed=true"
   width="955" height="955"></iframe>
 
-  <iframe src="  https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet3?:showVizHome=no&:embed=true"
-   width="955" height="955"></iframe>
+
+### Next step
+As suggested by interviewees, I will look into economic and social factors that may contribute to the 2014 outlier. I also want to examine some terrorism on the Internet examples, so that my call to action can be better linked with the content.
