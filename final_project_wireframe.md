@@ -44,3 +44,6 @@ Showcase how terrorism is close to the public.
 ### Wireframes
 <iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet1?:showVizHome=no&:embed=true"
  width="955" height="955"></iframe>
+
+ <iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet2?:showVizHome=no&:embed=true"
+  width="955" height="955"></iframe>
