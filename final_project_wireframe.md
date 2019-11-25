@@ -14,25 +14,25 @@ To select people to interview and critique my wireframes, I was thinking of peop
 
 ### Interview script  
 Since this project's goal is to raise people's awareness of terrorism by showcasing relevant data, my interview questions focused on: people's impression of terrorism before and after they examine my wireframes.
-#### General knowledge
+1. General knowledge
 - What are your first impression when you hear about the term "terrorism"?
 - Do you you know any numbers or figures about terrorism?  
 
-#### Overall impression of wireframe
+2. Overall impression of wireframe
 - Can you describe what the story is telling you?
 - Is there anything that you find surprising or confusing?
 
-#### Intro
+3. Intro
 - Which stock image do you prefer to see at the very beginning of the story and why?
 - Is there anything that you think is missing from the intro?
 
-#### statistics
+4. statistics
 - What data do you expect to see that reflects how widespread terrorism is?
 
-#### Graph and visual
+5. Graph and visual
 - Do you think the current graphs are understandable to you? If not, what kind of graphs do you prefer?
 
-### Findings from your interviews
+### Findings from interview
 From the interview, most people were able to follow along my storyline. However, some of them think the connection between call-to-action and the previous content seemed a bit weak.
 
 **Intro**  
@@ -50,9 +50,8 @@ Another suggestion is related to the connection between call-to-action and conte
 >People know about terrorism by their names and locations, but they feel like it's quite far from their lives. Maybe you can find some data to show like there's one terrorist in every 100 or so people.
 
 **Graph and visual**  
-For the total number of terrorist attacks per country, I opted for a bar chart at the beginning.
+For the total number of terrorist attacks per country, I opted for a bar chart at the beginning, as shown below.
 ![](assets/final_project_wireframe-bb0a899a.png)
-*A quick render of my bar chart*  
 One interviewee commented that although bar chart can show the drastic difference between Iraq and other countries, he wanted to know how the top countries were geographically located.
 
 ### Wireframes
