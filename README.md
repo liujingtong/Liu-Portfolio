@@ -16,4 +16,5 @@ Here's where my data vis will go!
 
 # Final Project
 [Part 1: Final project proposal](final_project_proposal.md)
+
 [Part 2: sketches, wireframe and storyboard](final_project_wireframe.md)
