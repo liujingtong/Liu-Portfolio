@@ -1,8 +1,9 @@
 # Final Project, Part II: Storyboards, user research and wireframes
-My topic is about terrorism and the main goal is to help people understand terrorism better through the lens of statistics and data visualization. I wanted to start with giving readers a general theme of terrorist attacks by presenting figures and trends, then scope down to data points that are specifically interesting. In this case it is year 2014, in which the number of terrorist attacks abruptly peaked after a rather smooth increase during 1970 to pre 2014. At the end, I would like readers to understand that terrorism is not far from their ordinary lives, but rather widespread across the globe, and provide some tips and tricks to identify potential terrorism signals both online and offline.  
+My topic is about terrorism and the main goal is to help people understand terrorism better through the lens of statistics and data visualization. I wanted to start with giving readers a general theme of terrorist attacks by presenting figures and trends, then scope down to data points that are specifically interesting. At the end, I would like readers to understand that terrorism is not far from their ordinary lives, but rather widespread across the globe, and provide some tips and tricks to identify potential terrorism signals both online and offline.  
 
 ## Storyboards
 ![](assets/final_project_wireframe-e128700a.png)
+After I looked into my [dataset](https://www.kaggle.com/START-UMD/gtd), I found that there was an rather smooth increasing trend in the number of terrorist attacks as time progressed from 1970 to 2011, yet after 2011 the number rose drastically until in 2014 reached a peak.  
 
 ## User research protocol
 ### Target audience
@@ -48,8 +49,15 @@ One interviewee mentioned she wanted to see more about the influence that terror
 Another suggestion is related to the connection between call-to-action and content mentioned above. Two interviewees said it was unclear how terrorism is close to the public.
 >People know about terrorism by their names and locations, but they feel like it's quite far from their lives. Maybe you can find some data to show like there's one terrorist in every 100 or so people.
 
+**Graph and visual**  
+For the total number of terrorist attacks per country, I opted for a bar chart at the beginning.
+![](assets/final_project_wireframe-bb0a899a.png)
+*A quick render of my bar chart*  
+One interviewee commented that although bar chart can show the drastic difference between Iraq and other countries, he wanted to know how the top countries were geographically located.
 
 ### Wireframes
+Based on the feedback I collected, I did the following changes.  
+I recreated the graph of the total number of terrorist attacks per country using heat map on a world map to indicate difference in regions. I also created a interactive bar with which the readers can interact with to see the number of terrorist attacks adds up as time moves forward.
 <iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet1?:showVizHome=no&:embed=true"
  width="955" height="955"></iframe>
 
