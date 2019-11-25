@@ -1,13 +1,15 @@
-# Final Project, Part II: Sketches, Wireframes, Storyboards
-## Storyboards
+# Final Project, Part II: Storyboards, user research and wireframes
+My topic is about terrorism and the main goal is to help people understand terrorism better through the lens of statistics and data visualization. I wanted to start with giving readers a general theme of terrorist attacks by presenting figures and trends, then scope down to data points that are specifically interesting. In this case it is year 2014, in which the number of terrorist attacks abruptly peaked after a rather smooth increase during 1970 to pre 2014. At the end, I would like readers to understand that terrorism is not far from their ordinary lives, but rather widespread across the globe, and provide some tips and tricks to identify potential terrorism signals both online and offline.  
 
+## Storyboards
+![](assets/final_project_wireframe-e128700a.png)
 
 ## User research protocol
 ### Target audience
 The target audience for this final project will be anyone who has heard of or even experienced terrorist attacks but was not exposed to relevant statistics of terrorism. For most people, 911 is the one that happened in their life, but there are much more terrorist activities happening around the globe, and this presentation aims to bring attention to these activities.
 
 ### Approach to identifying representative individuals to interview  
-To select people to interview and critique my wireframes, I was thinking of people from different ethnicity and/or countries. I reached out to three peers in my master program (one Chinese, one Turkish and one Indian) and two undergraduate from a data science class (both White).
+To select people to interview and critique my wireframes, I was thinking of people from different ethnicity and/or countries. I reached out to three peers in my master program (one Chinese, one Turkish and one Indian) and one undergraduate from a data science class (White American).
 
 ### Interview script  
 Since this project's goal is to raise people's awareness of terrorism by showcasing relevant data, my interview questions focused on: people's impression of terrorism before and after they examine my wireframes.
@@ -30,16 +32,22 @@ Since this project's goal is to raise people's awareness of terrorism by showcas
 - Do you think the current graphs are understandable to you? If not, what kind of graphs do you prefer?
 
 ### Findings from your interviews
-**Trend in 2014:**
-People are interested in what happened in 2014, causing an uplift in number of terrorist attacks.  
-Look into social and economical factors that contribute to this phenomenon.  
+From the interview, most people were able to follow along my storyline. However, some of them think the connection between call-to-action and the previous content seemed a bit weak.
+
+**Intro**  
+For the intro image, out of 4 interviewees, 3 preferred an image of individuals after terrorist attack and 1 preferred a picture of city scape after terrorist attack. 1 person mentioned that it largely depended on what my end goal is: to raise people's awareness of terrorism, a picture of individuals may be more relatable to the general public than a city scape.
+> I would go with an image of individuals because although a devastated city look shocking, people may think that oh this is horrible but it's not my hometown, you know, so it is less relatable.
+
+**Trend in 2014**  
+Most interviewees were interested in what happened in 2014 that caused such an hike in the number of terrorist attacks. 3 people mentioned that I can look into social and economical factors that contribute to this phenomenon.
 
 **What else do you like to see in the narrative?**  
-"The Islamic State uses social media to promote its beliefs and attract newcomers, especially younger generation. How did they do this? I would like to know more data about that."  
-How social media help spread terrorism?
+One interviewee mentioned she wanted to see more about the influence that terrorism groups are trying to make through new channels, like social platforms and media outlets.
+> The Islamic State uses social media to promote its beliefs and attract newcomers, especially younger generation. How did they do this? I would like to know more data about that.
 
-"People know about terrorism by their names and locations, but they feel like it's quite far from their lives. Maybe you can find some data to show like there's one terrorist in every 100 or so people."  
-Showcase how terrorism is close to the public.
+Another suggestion is related to the connection between call-to-action and content mentioned above. Two interviewees said it was unclear how terrorism is close to the public.
+>People know about terrorism by their names and locations, but they feel like it's quite far from their lives. Maybe you can find some data to show like there's one terrorist in every 100 or so people.
+
 
 ### Wireframes
 <iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet1?:showVizHome=no&:embed=true"
@@ -47,3 +55,6 @@ Showcase how terrorism is close to the public.
 
  <iframe src="https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet2?:showVizHome=no&:embed=true"
   width="955" height="955"></iframe>
+
+  <iframe src="  https://public.tableau.com/views/Terroristattacks_15746600294590/Sheet3?:showVizHome=no&:embed=true"
+   width="955" height="955"></iframe>
