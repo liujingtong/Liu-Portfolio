@@ -18,3 +18,5 @@ Here's where my data vis will go!
 [Part 1: Final project proposal](final_project_proposal.md)
 
 [Part 2: sketches, wireframe and storyboard](final_project_wireframe.md)
+
+[Part 3: final project](https://www.jtliu.space/work/terrorist-attack/)
